@@ -19,7 +19,7 @@ pyproject.toml
 ## Setup
 
 ```bash
-pip install -e .
+pip install .
 # or with pipx for a global install:
 pipx install .
 ```

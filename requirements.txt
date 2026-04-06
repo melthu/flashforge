@@ -1,0 +1,4 @@
+rich
+readchar
+pdfplumber
+anthropic
